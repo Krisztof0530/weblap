@@ -1,4 +1,5 @@
-KW Dojo – Vizsga Projekt
+KW Dojo 
+
 vizsgaproject.nhely.hu
 
 Ez a weboldal egy vizsgamunka keretében készült, és a japán harcművészetek világába nyújt betekintést egy modern, digitális felületen keresztül. A KW Dojo nevű szervezet célja, hogy a Kyokushin Karate, Kendó és Kudo harcművészetek értékeit, edzésmódszereit és közösségét közelebb hozza a látogatókhoz és az érdeklődőkhöz.
