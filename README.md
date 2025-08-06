@@ -9,7 +9,7 @@ A weboldal egyik központi eleme a menürendszer, amely a Mega Menu plugin segí
 
 Az edzők bemutatása külön aloldalakon történik, harcművészetenként (Karate, Kendó, Kudo) csoportosítva, így a látogatók részletes képet kapnak az oktatókról és azok tapasztalatairól. Ez különösen fontos bizalmi szempontból, hiszen a tanulók gyakran ez alapján választanak edzést vagy klubot.
 
-A weboldal interaktív funkciókkal is rendelkezik. A látogatók lehetőséget kapnak regisztrációra és bejelentkezésre, amelyet az Ultimate Member bővítmény biztosít. A tagok saját profiloldallal rendelkeznek, ahol szerkeszthetik adataikat, elérhetik a zárt tartalmakat, és kapcsolatba léphetnek más tagokkal. Ezzel a funkcióval a KW Dojo nem csupán információs platformként, hanem közösségi felületként is funkcionál.
+A weboldal interaktív funkciókkal is rendelkezik. A látogatók lehetőséget kapnak regisztrációra és bejelentkezésre, amelyet az Ultimate Member bővítmény biztosít. A tagok saját profiloldallal rendelkeznek, ahol szerkeszthetik adataikat, elérhetik a zárt tartalmakat, és kapcsolatba léphetnek más tagokkal. Ezzel a funkcióval a KW Dojo nem csupán információs platformként, hanem közösségi felületként is funkcionál.Az oldal egy beépített keresőfunkcióval is rendelkezik, amely segíti a látogatókat a kívánt tartalom gyors megtalálásában, legyen szó edzőkről, órarendről vagy blogbejegyzésekről.
 
 A kapcsolattartás egyszerűsítésére WPForms bővítményt használ az oldal, amelynek segítségével különböző űrlapok (kapcsolati, jelentkezési, érdeklődői) jöttek létre. Ezek megkönnyítik a kommunikációt a látogatók és az oldal üzemeltetői között.
 
